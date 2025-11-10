@@ -1,0 +1,27 @@
+# ملفات بايثون مؤقتة
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# قواعد البيانات
+*.db
+*.sqlite3
+
+# إعدادات بيئات التطوير
+.venv/
+venv/
+env/
+
+# ملفات نظام
+.DS_Store
+Thumbs.db
+
+# ملفات كبيرة
+*.zip
+*.rar
+*.tar.gz
+
+# إعدادات محلية
+config.local.py
+secrets.py
